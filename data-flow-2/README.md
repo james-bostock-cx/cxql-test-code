@@ -27,5 +27,5 @@ result = flows;
 ```
 
 Note that the first line returns three nodes but only two of them, the
-ones of type ~ParamDecl~ and ~UnknownReference~, are part of the data
-flows. The third, of type ~Param~, is not part of the data flows.
+ones of type `ParamDecl` and `UnknownReference`, are part of the data
+flows. The third, of type `Param`, is not part of the data flows.
