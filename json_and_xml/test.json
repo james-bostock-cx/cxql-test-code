@@ -1,0 +1,12 @@
+{
+    "propA": 123,
+    "propB": [
+        "ant",
+        "bat",
+        "cat"
+    ],
+    "propC": {
+        "subpropA": true,
+        "subPropB": "test"
+    }
+}
